@@ -1,0 +1,12 @@
+body {
+  color: aliceblue;
+}
+body p {
+  background-attachment: fixed;
+}
+body p:hover {
+  text-emphasis: none;
+}
+body a {
+  text-decoration: dashed;
+}
